@@ -1,0 +1,1 @@
+My realization of task manager on Java for study. Can show and kill processes. Also show CPU and RAM usage and shows info about computer.
